@@ -56,31 +56,31 @@ The dashboard tracks vital performance metrics to evaluate players:
 **1. Openers Analysis**
 *Evaluates powerplay performance, focusing on strike rate and boundary percentage.*
 <p align="center">
-  <img src="images/Openers.png" width="800">
+  <img src="Images/Openers.png" width="800">
 </p>
 
 **2. Anchors Analysis**
 *Identifies stable batters who can play long innings with a solid average.*
 <p align="center">
-  <img src="images/Anchors.png" width="800">
+  <img src="Images/Anchors.png" width="800">
 </p>
 
 **3. All-Rounders Analysis**
 *Comparison of batting and bowling capabilities to find versatile players.*
 <p align="center">
-  <img src="images/All_Rounder.png" width="800">
+  <img src="Images/All_Rounder.png" width="800">
 </p>
 
 **4. Bowlers Analysis**
 *Deep dive into bowling economy, wickets taken, and dot ball percentage.*
 <p align="center">
-  <img src="images/Bowlers.png" width="800">
+  <img src="Images/Bowlers.png" width="800">
 </p>
 
 **5. Final 11 Selection**
 *The ultimate team selected based on the data analysis, showing aggregate team strength.*
 <p align="center">
-  <img src="images/Final11.png" width="800">
+  <img src="Images/Final11.png" width="800">
 </p>
 
 ---
